@@ -37,6 +37,7 @@ ChatGPT is an AI chatbot developed by OpenAI, based on large language models lik
 - **[WebChatGPT](https://github.com/qunash/webchatgpt)** – Adds web search results to ChatGPT prompts.
 - **[Merlin](https://merlin.foyer.work/)** – ChatGPT assistant in your browser and productivity tools.
 - **[ChatGPT File Uploader](https://github.com/wong2/chat-gpt-google-extension)** – Upload files directly to ChatGPT sessions.
+- **[ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj)** – Free Chrome extension for timed ChatGPT response continuation, per-tab controls, and context handoff for long chats.
 
 ## APIs & Wrappers
 
